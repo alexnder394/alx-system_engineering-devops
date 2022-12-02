@@ -1,0 +1,1 @@
+#!/bin/bash\nmakdir -m 751 my_dir
