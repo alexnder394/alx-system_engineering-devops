@@ -1,5 +1,5 @@
-### System engineering & DevOps - ALX SE Program
-##  This is an introductory list of excercises to linux and its most importants skills
+## System engineering & DevOps - ALX SE Program
+- This is an introductory list of excercises to linux and its most importants skills
 
 
 # What is the Shell
