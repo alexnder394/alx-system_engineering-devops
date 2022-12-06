@@ -1,9 +1,6 @@
 Solutions to task 0x03. Shell, init files, variables and expansions
 =================================================
 
--   By Julien Barbier
-
-
 About Bash projects
 -------------------
 
